@@ -3,9 +3,13 @@
 	"type": "library",
 	"description": "Simple Shopify API client in PHP",
 	"keywords": ["shopify","api"],
-	"homepage": "https://github.com/phpish/shopify",
+	"homepage": "https://github.com/mehulvadodariya2012/shopify",
 	"license": "MIT",
 	"authors": [
+		{
+			"name": "Mehul V",
+			"email": "mehulvadodariya2012@gmail.com",			
+		},
 		{
 			"name": "Sandeep Shetty",
 			"email": "sandeep.shetty@gmail.com",
