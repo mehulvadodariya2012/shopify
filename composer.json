@@ -14,7 +14,7 @@
 	],
 	"require": {
 		"php": ">=5.3.0",
-		"phpish/http": "dev-master"
+		"mehulvadodariya2012/http": "dev-master"
 	},
 	"autoload": {
 		"files": ["shopify.php"]
