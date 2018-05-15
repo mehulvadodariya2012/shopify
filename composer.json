@@ -1,5 +1,5 @@
 {
-	"name": "phpish/shopify",
+	"name": "mehul/shopify",
 	"type": "library",
 	"description": "Simple Shopify API client in PHP",
 	"keywords": ["shopify","api"],
